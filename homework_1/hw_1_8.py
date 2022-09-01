@@ -12,4 +12,4 @@ def TowerOfHanoi(discs, pole1, pole2, pole3):
  
 
 discs = int(input("Enter amount of discs:"))
-TowerOfHanoi(rings, '1', '3', '2')
+TowerOfHanoi(discs, '1', '3', '2')
